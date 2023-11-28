@@ -26,7 +26,6 @@ void loop() {
     
     delay(2000);
   }
-
   lcd.clear();
   delay(2000);
 }
